@@ -1,7 +1,7 @@
-    For Project 3, we created a turn based strategy game that involves the user picking from one of two
+This project is a turn based strategy game that involves the user picking from one of two
 characters, and then choosing one of two unique weapons for that character. The parent class is called
 Warrior.h. This class includes general fields like health, block, and attack values that all characters
-in the game have. From here, we derived three classes: Archer.h, Juggernaut.h, and Enemy.h, all of which
+in the game have. From here, I derived three classes: Archer.h, Juggernaut.h, and Enemy.h, all of which
 are children of the parent class Warrior. The Juggernaut and Archer classes are characters that the user
 can choose from, and the classes have their own constructors that assign their unique health, attack, and
 block values. The enemy class, which also is a child of Warrior.h, uses a constructor with arguments
