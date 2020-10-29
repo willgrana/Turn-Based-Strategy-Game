@@ -1,4 +1,4 @@
-/* Main function for our game. Allows user to choose from two characters and two weapons for each character.
+/* Main function for my game. Allows user to choose from two characters and two weapons for each character.
  * Each battle is then initialized and completed with user input.
  * Battles are lost when your health reaches 0.
  * Attempt to defeat all three enemies without dying.
